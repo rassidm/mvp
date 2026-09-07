@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Hassan II Mosque",
+    "type": "landmark",
+    "lat": 33.5731,
+    "lon": -7.5898,
+    "wikidataId": "Q2387992"
+  },
+  {
+    "id": "2",
+    "name": "Le Jardin Magique",
+    "type": "natural",
+    "lat": 34.0333,
+    "lon": -6.8333,
+    "wikidataId": "Q110954488"
+  },
+  {
+    "id": "3",
+    "name": "Marrakech Medina",
+    "type": "cultural",
+    "lat": 31.6295,
+    "lon": -8.0001,
+    "wikidataId": "Q34288"
+  },
+  {
+    "id": "4",
+    "name": "Aït Ben Haddou",
+    "type": "historical",
+    "lat": 30.7222,
+    "lon": -7.6167,
+    "wikidataId": "Q355293"
+  },
+  {
+    "id": "5",
+    "name": "Todra Gorge",
+    "type": "natural",
+    "lat": 31.9069,
+    "lon": 3.8833,
+    "wikidataId": "Q1317404"
+  },
+  {
+    "id": "6",
+    "name": "Essaouira Medina",
+    "type": "cultural",
+    "lat": 31.5103,
+    "lon": -9.7694,
+    "wikidataId": "Q131843"
+  },
+  {
+    "id": "7",
+    "name": "Fes el-Bali",
+    "type": "cultural",
+    "lat": 34.0333,
+    "lon": -5.0003,
+    "wikidataId": "Q34287"
+  },
+  {
+    "id": "8",
+    "name": "Ouzoud Falls",
+    "type": "natural",
+    "lat": 33.5642,
+    "lon": -5.0942,
+    "wikidataId": "Q28575296"
+  },
+  {
+    "id": "9",
+    "name": "Royal Palace of Rabat",
+    "type": "landmark",
+    "lat": 34.0211,
+    "lon": -6.8311,
+    "wikidataId": "Q131836"
+  },
+  {
+    "id": "10",
+    "name": "Chellah",
+    "type": "historical",
+    "lat": 34.0289,
+    "lon": -6.8417,
+    "wikidataId": "Q1335947"
+  }
+]
